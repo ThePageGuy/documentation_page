@@ -8,7 +8,7 @@ A Documentation page for the programming language JavaScript.
 
 ## Demo
 
-Link
+[Link](https://thepageguy.github.io/documentation_page/)
 
 ## Author
 
